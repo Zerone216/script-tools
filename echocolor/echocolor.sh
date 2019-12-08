@@ -39,7 +39,7 @@ function testColor()
 
     if [ -z "$1" ]
     then
-        teststr="ABCDEFGHIGKLMNOPQRSTUVWXYZ"
+        teststr="ABCDEFGHIGKLMNOPQRSTUVWXYZ-0123456789"
     else
         teststr=${@}
     fi
