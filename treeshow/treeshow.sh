@@ -1,8 +1,15 @@
 #!/bin/bash
 
-
-
-
+asignPrint()
+{
+    char=$1
+    times=$2
+    
+    for i in (1..$times)
+    do
+        echo -n $char
+    done
+}
 
 displayDir()
 {
