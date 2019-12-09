@@ -2,7 +2,7 @@
 
 ***
 
-![echo-showall](./pics/echocolor1.png)
-![echo-showall](./pics/echocolor2.png)
+![echo-showall-f](/pics/echocolor1.png)
+![echo-showall-b](/pics/echocolor2.png)
 
-![echo-showall](./pics/echocolor3.png)
+![echo-test3](/pics/echocolor3.png)
